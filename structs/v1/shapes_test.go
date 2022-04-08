@@ -2,6 +2,7 @@ package main
 
 import "testing"
 
+// deneme
 func TestPerimeter(t *testing.T) {
 	got := Perimeter(10.0, 10.0)
 	want := 40.0
